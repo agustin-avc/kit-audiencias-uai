@@ -1,0 +1,13 @@
+# Sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+
+# Archivos de trabajo temporales
+datos/transcripciones/pegado.txt
+~$*
+
+# Si alguna vez guardan algo sensible por error, pónganlo aquí y avisen al profesor
+privado/

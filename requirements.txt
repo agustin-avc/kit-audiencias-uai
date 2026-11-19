@@ -1,0 +1,2 @@
+# Solo hace falta para la receta 2 (transcripciones). Lo demás usa la biblioteca estándar de Python.
+youtube-transcript-api>=1.0
